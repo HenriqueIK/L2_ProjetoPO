@@ -15,7 +15,7 @@ public class Arquivo{
             osw = new OutputStreamWriter(os);
             bw = new BufferedWriter(osw);
 
-            bw.write("======= PERSONAGENS =======\n"); // escrevendo no arquivo texto nome, curso, matricula e media
+            bw.write("======= PERSONAGENS =======\n"); // escrevendo no arquivo texto nome, classe, pv, mana e nivel
             bw.write(a.getNome() + "\n");
             bw.write(a.getClasse() + "\n");
             bw.write(a.getPv() + "\n");
