@@ -1,0 +1,24 @@
+======= PERSONAGENS =======
+John
+Guerreiro
+30
+10
+3
+======= PERSONAGENS =======
+Theo
+Curandeiro
+40
+300
+7
+======= PERSONAGENS =======
+Becker
+Curandeiro
+40
+60
+2
+======= PERSONAGENS =======
+Joao
+Feiticeiro
+2
+23
+6
